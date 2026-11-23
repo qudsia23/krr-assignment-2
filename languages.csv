@@ -1,0 +1,8 @@
+lang_id,name,native_name,family,branch,script,script_base,regions
+urd,Urdu,اردو,Indo-European,Indo-Aryan,Urdu alphabet,Perso-Arabic,Punjab;Sindh;Khyber Pakhtunkhwa;Balochistan
+pnb,Punjabi,پنجابی,Indo-European,Indo-Aryan,Shahmukhi,Perso-Arabic,Punjab
+snd,Sindhi,سنڌي,Indo-European,Indo-Aryan,Sindhi alphabet,Perso-Arabic,Sindh
+pus,Pashto,پښتو,Indo-European,Iranian,Pashto alphabet,Perso-Arabic,Khyber Pakhtunkhwa; Balochistan
+bal,Balochi,بلوچی,Indo-European,Iranian,Balochi alphabet,Perso-Arabic,Balochistan;Sindh
+brh,Brahui,براہوئی,Dravidian,North Dravidian,Brahui alphabet,Perso-Arabic,Balochistan
+skr,Saraiki,سرائیکی,Indo-European,Indo-Aryan,Saraiki alphabet,Perso-Arabic,Punjab;KPK
